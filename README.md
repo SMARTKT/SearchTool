@@ -1,4 +1,4 @@
-# SearchTool
+# SmartKT Customizable Search Tool
 
 This README contains instructions for setting up and using the Search Tool.
 
